@@ -1,0 +1,11 @@
+package command2;
+
+public class UbuntuKubeScript implements Script {
+
+	@Override
+	public void install() {
+		// TODO Auto-generated method stub
+		System.out.println("CentosKubeScript");
+	}
+
+}

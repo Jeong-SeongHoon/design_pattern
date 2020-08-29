@@ -1,0 +1,7 @@
+package battery_test;
+
+public interface Observable {
+	void attachObserver();
+	void detachObserver();
+	void notifyObservers();
+}

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="strategy.Robot"/>
+<fullyQualifiedTypeName name="strategy.Atom"/>
+<fullyQualifiedTypeName name="strategy.Mazinga"/>
+<fullyQualifiedTypeName name="strategy.AttackStrategy"/>
+<fullyQualifiedTypeName name="strategy.MoveStrategy"/>
+<fullyQualifiedTypeName name="strategy.PunchStrategy"/>
+<fullyQualifiedTypeName name="strategy.FlyStrategy"/>
+<fullyQualifiedTypeName name="strategy.MissileStrategy"/>
+<fullyQualifiedTypeName name="strategy.WalkStrategy"/>
+<fullyQualifiedTypeName name="state.Light"/>
+<fullyQualifiedTypeName name="state.State"/>
+<fullyQualifiedTypeName name="state.Off"/>
+<fullyQualifiedTypeName name="state.On"/>
+<fullyQualifiedTypeName name="state.Sleep"/>
+<fullyQualifiedTypeName name="vending_machine.State"/>
+<fullyQualifiedTypeName name="vending_machine.NoMoney"/>
+<fullyQualifiedTypeName name="vending_machine.NotEnoughMoney"/>
+<fullyQualifiedTypeName name="vending_machine.EnoughMoney"/>
+<fullyQualifiedTypeName name="vending_machine.SoldOut"/>
+<fullyQualifiedTypeName name="vending_machine.Money"/>
+<fullyQualifiedTypeName name="vending_machine.Beverage"/>
+<fullyQualifiedTypeName name="vending_machine.VendingMachine"/>
+<fullyQualifiedTypeName name="vending_machine.MoneyBox"/>
+<fullyQualifiedTypeName name="command1.Command"/>
+<fullyQualifiedTypeName name="command1.OperatingSystem"/>
+<fullyQualifiedTypeName name="command1.Button"/>
+<fullyQualifiedTypeName name="command1.Centos"/>
+<fullyQualifiedTypeName name="command1.Ubuntu"/>
+<fullyQualifiedTypeName name="command2.Os"/>
+<fullyQualifiedTypeName name="command2.Installer"/>
+<fullyQualifiedTypeName name="command2.KubeCentosInstaller"/>
+<fullyQualifiedTypeName name="command2.Node"/>
+<fullyQualifiedTypeName name="command2.Centos"/>
+<fullyQualifiedTypeName name="command2.Ubuntu"/>
+<fullyQualifiedTypeName name="command2.Env"/>
+</qualifiedTypeNameHistroy>

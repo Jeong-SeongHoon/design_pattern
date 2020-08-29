@@ -1,0 +1,11 @@
+package command2;
+
+public class Ubuntu extends Os {
+
+	@Override
+	public void installKube() {
+		// TODO Auto-generated method stub
+		System.out.println("Ubuntu install kube");
+	}
+
+}

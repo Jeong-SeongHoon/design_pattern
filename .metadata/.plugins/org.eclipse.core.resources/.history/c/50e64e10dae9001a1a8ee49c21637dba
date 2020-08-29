@@ -1,0 +1,5 @@
+ackage observer;
+
+public interface PrintMultiple {
+
+}

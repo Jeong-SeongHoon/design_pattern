@@ -1,0 +1,32 @@
+package battery_test;
+
+import java.util.ArrayList;
+
+public class Battery implements Observable{
+	private int amount = 100;
+	private ArrayList<Observer> observers = new ArrayList<Observer>();
+	
+	public consume() {
+		
+	}
+
+	@Override
+	public void attachObserver(Observer observer) {
+		// TODO Auto-generated method stub
+		this.observers.add(observer);
+	}
+
+	@Override
+	public void detachObserver(Observer observer) {
+		// TODO Auto-generated method stub
+		this.observers.remove(observer);
+		
+	}
+
+	@Override
+	public void notifyObservers() {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

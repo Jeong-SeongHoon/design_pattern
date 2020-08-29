@@ -1,0 +1,6 @@
+package command2;
+
+public abstract class Os {
+	Product product;
+	void installKube();
+}

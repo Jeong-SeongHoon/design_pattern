@@ -1,0 +1,10 @@
+package command2;
+
+public class Env {
+	private Node[] nodeList;
+
+	public Env() {
+		super();
+		this.nodeList = Node[new Node(new Centos())];
+	}
+}

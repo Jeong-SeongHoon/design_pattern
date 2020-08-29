@@ -1,0 +1,13 @@
+package command2;
+
+public abstract class Installer {
+	public Env env;
+
+	public Env getEnv() {
+		return env;
+	}
+
+	public void setEnv(Env env) {
+		this.env = env;
+	}
+}

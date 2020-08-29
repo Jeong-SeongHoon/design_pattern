@@ -1,0 +1,14 @@
+package command2;
+
+public abstract class Os {
+	Script product;
+	
+	
+	public Script getProduct() {
+		return product;
+	}
+	public void setProduct(Script product) {
+		this.product = product;
+	}
+	abstract void installKube();
+}

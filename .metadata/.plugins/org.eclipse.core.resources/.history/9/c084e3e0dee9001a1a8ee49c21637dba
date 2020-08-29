@@ -1,0 +1,11 @@
+package battery_test;
+
+public class WarningBattery implements Observer{
+
+	@Override
+	public void upate() {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

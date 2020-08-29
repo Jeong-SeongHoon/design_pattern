@@ -1,0 +1,13 @@
+package command2;
+
+public abstract class Os {
+	Script script;
+	
+	
+	public Script getScript() {
+		return script;
+	}
+	public void setScript(Script script) {
+		this.script = script;
+	}
+}

@@ -1,0 +1,13 @@
+package observer;
+
+public class Client {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Score score = new Score();
+		score.addScore(10);
+		score.addScore(20);
+		score.addScore(30);
+	}
+
+}

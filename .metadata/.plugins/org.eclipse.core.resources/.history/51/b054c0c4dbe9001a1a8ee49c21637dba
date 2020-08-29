@@ -1,0 +1,19 @@
+package observer;
+
+public class Client {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Score score = new Score();
+		Print ob1 = new Print();
+		PrintMultiple ob2 = new PrintMultiple();
+		ob1.setScore(score);
+		ob2.setScore(score);
+		score.attachObserver(ob1);
+		score.attachObserver(ob2);
+		score.addScore(10);
+		score.addScore(20);
+		score.addScore(30);
+	}
+
+}
