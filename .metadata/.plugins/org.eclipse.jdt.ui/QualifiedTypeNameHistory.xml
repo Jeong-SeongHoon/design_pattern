@@ -35,4 +35,15 @@
 <fullyQualifiedTypeName name="command2.Centos"/>
 <fullyQualifiedTypeName name="command2.Ubuntu"/>
 <fullyQualifiedTypeName name="command2.Env"/>
+<fullyQualifiedTypeName name="java.lang.Integer"/>
+<fullyQualifiedTypeName name="observer.Subject"/>
+<fullyQualifiedTypeName name="observer.Score"/>
+<fullyQualifiedTypeName name="observer.Observer"/>
+<fullyQualifiedTypeName name="observer.Print"/>
+<fullyQualifiedTypeName name="observer.PrintMultiple"/>
+<fullyQualifiedTypeName name="battery_test.Observer"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="battery_test.PrintBattery"/>
+<fullyQualifiedTypeName name="battery_test.Observable"/>
+<fullyQualifiedTypeName name="battery_test.Battery"/>
 </qualifiedTypeNameHistroy>

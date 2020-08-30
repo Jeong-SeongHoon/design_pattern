@@ -2,6 +2,7 @@
 <typeInfoHistroy>
 <typeInfo handle="=state/src&lt;state{State.java[State" modifiers="513" timestamp="1597588528404"/>
 <typeInfo handle="=vending_machine/src&lt;vending_machine{State.java[State" modifiers="513" timestamp="1597652719995"/>
-<typeInfo handle="=command1/src&lt;command1{OperatingSystem.java[OperatingSystem" modifiers="513" timestamp="1597843773615"/>
-<typeInfo handle="=command1/src&lt;command2{Os.java[Os" modifiers="1025" timestamp="1598544388556"/>
+<typeInfo handle="=observer/C:\/Program Files\/Java\/jre1.8.0_261\/lib\/rt.jar&lt;java.lang(Object.class[Object" modifiers="33" timestamp="1595777026134"/>
+<typeInfo handle="=observer/src&lt;observer{Observer.java[Observer" modifiers="513" timestamp="1598692814329"/>
+<typeInfo handle="=observer/C:\/Program Files\/Java\/jre1.8.0_261\/lib\/rt.jar&lt;java.util(Observer.class[Observer" modifiers="1537" timestamp="1595777026134"/>
 </typeInfoHistroy>
