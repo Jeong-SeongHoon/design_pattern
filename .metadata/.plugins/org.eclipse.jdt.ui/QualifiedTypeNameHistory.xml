@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-<fullyQualifiedTypeName name="strategy.Robot"/>
-<fullyQualifiedTypeName name="strategy.Atom"/>
-<fullyQualifiedTypeName name="strategy.Mazinga"/>
-<fullyQualifiedTypeName name="strategy.AttackStrategy"/>
-<fullyQualifiedTypeName name="strategy.MoveStrategy"/>
-<fullyQualifiedTypeName name="strategy.PunchStrategy"/>
 <fullyQualifiedTypeName name="strategy.FlyStrategy"/>
 <fullyQualifiedTypeName name="strategy.MissileStrategy"/>
 <fullyQualifiedTypeName name="strategy.WalkStrategy"/>
@@ -46,4 +40,24 @@
 <fullyQualifiedTypeName name="battery_test.PrintBattery"/>
 <fullyQualifiedTypeName name="battery_test.Observable"/>
 <fullyQualifiedTypeName name="battery_test.Battery"/>
+<fullyQualifiedTypeName name="decorator.Print"/>
+<fullyQualifiedTypeName name="decorator.DecoratePrint"/>
+<fullyQualifiedTypeName name="decorator.AgePrint"/>
+<fullyQualifiedTypeName name="decorator.NamePrint"/>
+<fullyQualifiedTypeName name="decorator.ScorePrint"/>
+<fullyQualifiedTypeName name="coffee.DecorateCoffee"/>
+<fullyQualifiedTypeName name="coffee.Coffee"/>
+<fullyQualifiedTypeName name="coffee.Latte"/>
+<fullyQualifiedTypeName name="coffee.Espresso"/>
+<fullyQualifiedTypeName name="car.OptionCar"/>
+<fullyQualifiedTypeName name="car.BasicCar"/>
+<fullyQualifiedTypeName name="car.NavigationCar"/>
+<fullyQualifiedTypeName name="car.AirBagCar"/>
+<fullyQualifiedTypeName name="car.ABSCar"/>
+<fullyQualifiedTypeName name="java.lang.String"/>
+<fullyQualifiedTypeName name="factory_method.SoccerBall"/>
+<fullyQualifiedTypeName name="factory_method.BasketBall"/>
+<fullyQualifiedTypeName name="factory_method.GolfBall"/>
+<fullyQualifiedTypeName name="factory_method.BallFactory"/>
+<fullyQualifiedTypeName name="factory_method.BallFactory.BallType"/>
 </qualifiedTypeNameHistroy>
