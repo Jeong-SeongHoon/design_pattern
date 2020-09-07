@@ -1,8 +1,0 @@
-package command2;
-
-public class KubeInstaller extends Installer {
-	public KubeInstaller(Env env) {
-		super(env);
-		// TODO Auto-generated constructor stub
-	}
-}

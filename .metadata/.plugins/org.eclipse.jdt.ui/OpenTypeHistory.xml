@@ -9,4 +9,6 @@
 <typeInfo handle="=decorator/src&lt;coffee{Coffee.java[Coffee" modifiers="513" timestamp="1598775207491"/>
 <typeInfo handle="=decorator/src&lt;car{Car.java[Car" modifiers="513" timestamp="1598776289064"/>
 <typeInfo handle="=factory_method/src&lt;factory_method{Ball.java[Ball" modifiers="513" timestamp="1598965658429"/>
+<typeInfo handle="=abstract_factory/src&lt;abstract_factory{Door.java[Door" modifiers="513" timestamp="1599053055424"/>
+<typeInfo handle="=abstract_factory/src&lt;abstract_factory{Motor.java[Motor" modifiers="513" timestamp="1599053062833"/>
 </typeInfoHistroy>

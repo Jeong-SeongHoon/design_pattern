@@ -1,7 +1,0 @@
-package battery_test;
-
-public class Client {
-	public static void main(String[] args) {
-		
-	}
-}

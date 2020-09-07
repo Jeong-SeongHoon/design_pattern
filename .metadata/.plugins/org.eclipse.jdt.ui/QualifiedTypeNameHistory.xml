@@ -1,17 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-<fullyQualifiedTypeName name="strategy.FlyStrategy"/>
-<fullyQualifiedTypeName name="strategy.MissileStrategy"/>
-<fullyQualifiedTypeName name="strategy.WalkStrategy"/>
-<fullyQualifiedTypeName name="state.Light"/>
-<fullyQualifiedTypeName name="state.State"/>
-<fullyQualifiedTypeName name="state.Off"/>
-<fullyQualifiedTypeName name="state.On"/>
-<fullyQualifiedTypeName name="state.Sleep"/>
-<fullyQualifiedTypeName name="vending_machine.State"/>
-<fullyQualifiedTypeName name="vending_machine.NoMoney"/>
-<fullyQualifiedTypeName name="vending_machine.NotEnoughMoney"/>
-<fullyQualifiedTypeName name="vending_machine.EnoughMoney"/>
 <fullyQualifiedTypeName name="vending_machine.SoldOut"/>
 <fullyQualifiedTypeName name="vending_machine.Money"/>
 <fullyQualifiedTypeName name="vending_machine.Beverage"/>
@@ -36,7 +24,6 @@
 <fullyQualifiedTypeName name="observer.Print"/>
 <fullyQualifiedTypeName name="observer.PrintMultiple"/>
 <fullyQualifiedTypeName name="battery_test.Observer"/>
-<fullyQualifiedTypeName name="java.util.ArrayList"/>
 <fullyQualifiedTypeName name="battery_test.PrintBattery"/>
 <fullyQualifiedTypeName name="battery_test.Observable"/>
 <fullyQualifiedTypeName name="battery_test.Battery"/>
@@ -60,4 +47,17 @@
 <fullyQualifiedTypeName name="factory_method.GolfBall"/>
 <fullyQualifiedTypeName name="factory_method.BallFactory"/>
 <fullyQualifiedTypeName name="factory_method.BallFactory.BallType"/>
+<fullyQualifiedTypeName name="abstract_factory.Door"/>
+<fullyQualifiedTypeName name="abstract_factory.Motor"/>
+<fullyQualifiedTypeName name="abstract_factory.LGDoor"/>
+<fullyQualifiedTypeName name="abstract_factory.LGMotor"/>
+<fullyQualifiedTypeName name="abstract_factory.SKMotor"/>
+<fullyQualifiedTypeName name="abstract_factory.LGElevatorFactory"/>
+<fullyQualifiedTypeName name="abstract_factory.ElevatorFactory"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="composite.KeyBoard"/>
+<fullyQualifiedTypeName name="composite.Body"/>
+<fullyQualifiedTypeName name="composite.Monitor"/>
+<fullyQualifiedTypeName name="composite.Component"/>
+<fullyQualifiedTypeName name="composite.Computer"/>
 </qualifiedTypeNameHistroy>

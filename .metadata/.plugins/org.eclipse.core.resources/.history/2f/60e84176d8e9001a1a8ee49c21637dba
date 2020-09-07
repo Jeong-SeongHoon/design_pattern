@@ -1,5 +1,0 @@
-package command2;
-
-public interface Script {
-	void install();
-}
